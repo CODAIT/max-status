@@ -2,8 +2,6 @@
 
 Current status for the https://developer.ibm.com/exchanges/models/ ecosystem.
 
-
-
 ## 
 
 | Use Case | Model |  Status | Latest Release | Distributions |
