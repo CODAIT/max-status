@@ -40,11 +40,3 @@ Current status for the https://developer.ibm.com/exchanges/models/ ecosystem.
 | Name | Status | Latest Release | Distributions |
 | ---- | ---- | ---- | ---- |
 | [Node-RED module](https://github.com/CODAIT/node-red-contrib-model-asset-exchange/) | [![Build Status](https://travis-ci.org/CODAIT/node-red-contrib-model-asset-exchange.svg?branch=master)](https://travis-ci.org/CODAIT/node-red-contrib-model-asset-exchange) | [![GitHub release](https://img.shields.io/github/release/CODAIT/node-red-contrib-model-asset-exchange.svg)](https://github.com/CODAIT/node-red-contrib-model-asset-exchange/releases/latest) | [![npm version](https://badge.fury.io/js/node-red-contrib-model-asset-exchange.svg)](https://badge.fury.io/js/node-red-contrib-model-asset-exchange) |
-
-### Other repositories
-
-| Name | Status | Latest Release | Distributions |
-| ---- | ---- | ---- | ---- |
-| [MAX-Base](https://github.com/IBM/MAX-Base) | [![Build Status](https://travis-ci.com/IBM/MAX-Base.svg?branch=master)](https://travis-ci.com/IBM/MAX-Base) | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Base.svg)](https://github.com/IBM/MAX-Base/releases/latest) |
-| [MAX Framework](https://github.com/IBM/MAX-Framework) | [![Build Status](https://travis-ci.com/IBM/MAX-Framework.svg?branch=master)](https://travis-ci.com/IBM/MAX-Framework) | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Framework.svg)](https://github.com/IBM/MAX-Framework/releases/latest) | [![PyPy release](https://img.shields.io/pypi/v/maxfw.svg)](https://pypi.org/project/maxfw/) |
-| [MAX-Skeleton](https://github.com/IBM/MAX-Skeleton) | [![Build Status](https://travis-ci.com/IBM/MAX-Skeleton.svg?branch=master)](https://travis-ci.com/IBM/MAX-Skeleton) | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Skeleton.svg)](https://github.com/IBM/MAX-Skeleton/releases/latest) |
