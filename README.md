@@ -37,7 +37,7 @@ Current status for the https://developer.ibm.com/exchanges/models/ ecosystem.
 | NLP         | [Word Embedding Generator](https://github.com/IBM/MAX-Word-Embedding-Generator) | | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Word-Embedding-Generator.svg)](https://github.com/IBM/MAX-Word-Embedding-Generator/releases/latest) |
 |          | [Name Generator](https://github.com/IBM/MAX-Name-Generator) | | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Name-Generator.svg)](https://github.com/IBM/MAX-Name-Generator/releases/latest) |
 | Cryptography | [Adversarial Cryptography](https://github.com/IBM/MAX-Adversarial-Cryptography)| | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Adversarial-Cryptography.svg)](https://github.com/IBM/MAX-Adversarial-Cryptography/releases/latest) |
-| Spactial | [Spatial Transformer Network](https://github.com/IBM/MAX-Spatial-Transformer-Network) | | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Spatial-Transformer-Network.svg)](https://github.com/IBM/MAX-Spatial-Transformer-Network/releases/latest) |
+| Spatial | [Spatial Transformer Network](https://github.com/IBM/MAX-Spatial-Transformer-Network) | | [![GitHub release](https://img.shields.io/github/release/IBM/MAX-Spatial-Transformer-Network.svg)](https://github.com/IBM/MAX-Spatial-Transformer-Network/releases/latest) |
 
 ### Supporting libraries
 
